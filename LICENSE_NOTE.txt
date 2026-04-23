@@ -1,0 +1,2 @@
+This sample is for training only and uses fictional data.
+No real personal data or secrets are included.
